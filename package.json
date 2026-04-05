@@ -1,0 +1,17 @@
+{
+  "name": "physics-math-viz",
+  "version": "1.0.0",
+  "description": "Interactive 3D physics and mathematics visualization platform",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.128.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
