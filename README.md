@@ -1,5 +1,9 @@
 # Gravitas Engine
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-gravitas--engine.vercel.app-6b4cff?style=for-the-badge&logo=vercel)](https://gravitas-engine.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Gravitas--Engine-00d2ff?style=for-the-badge&logo=github)](https://github.com/Sudharsh22/Gravitas-Engine)
+
+
 An interactive, high-fidelity 3D visualization platform for fundamental physics systems and mathematical phenomena. Gravitas features a highly accurate **Velocity Verlet** numerical integration engine, real-time post-processing (Bloom), and a retro-arcade pixel aesthetic.
 
 ## Features
